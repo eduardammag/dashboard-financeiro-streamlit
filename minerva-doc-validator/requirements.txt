@@ -1,0 +1,11 @@
+numpy
+scikit-learn
+sentence-transformers
+nltk
+pytesseract
+opencv-python
+Pillow
+PyPDF2
+python-docx
+pytesseract
+
